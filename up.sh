@@ -3,7 +3,6 @@
 n=0
 SERVER=puppetmaster.local:192.168.1.2
 
-
 while [[ $n -lt 10 ]]
 do
     n=$((n+1))
